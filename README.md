@@ -1,1 +1,1 @@
-# Make It Simple
+# Make It Smpl
